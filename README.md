@@ -1,17 +1,21 @@
-### Hi there, I'm Zeeshan Qaswar - aka [ZeoLIon][website] 👋
+### Hi there, I'm Zeeshan Qaswar - aka [ZeoLion][website] 👋
 
 [![Portfolio Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
 ![Github Followers](https://img.shields.io/github/followers/xeeshanqaswar?style=for-the-badge)
 
-## I'm a Game Developer!!
+## :joystick: I'm a Game Developer!!
 
-- 🔭 In spare time I live to binge Apex Legends
-- 🌱 Working on side project to Improve 🤣
-- 👯 Trying to learn Shader Programming & Games Math
-- 🥅 2021 Goals: Complete the Game Dev Maths. 
-- ⚡ Fun fact: I love to draw
+- :video_game: In spare time I live to binge Apex Legends
+- :muscle: Working on side project to Improve 🤣
+- :brain: Trying to learn Shader Programming & Games Math
+- :fist_right: 2021 Goals: Complete the Game Dev Maths
+- :paintbrush: Fun fact: I love to do 3d art
+- :clinking_glasses: Looking forward to meet like minded people
 
 ### Connect with me:
+![GitHub Logo](/images/linkedin.png)
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="/images/linkedin.png" />][website]
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
