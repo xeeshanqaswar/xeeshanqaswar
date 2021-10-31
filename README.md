@@ -41,11 +41,10 @@ Don't hesitent to connect. I promise I wont bite :smile:
 <img align="left" alt="Zeeshan Qaswar" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Zeeshan Qaswar" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="Zeeshan Qaswar" width="30px" src="https://user-images.githubusercontent.com/7692061/139595497-0955b7f5-9632-4a94-a56a-168d396094f4.png"/>
----
 
 <br />
 
-### Follow me on Github Thanks :smile:
+### Follow me on Github Thanks :smile: Have a nice Day!
 
 
 
