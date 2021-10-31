@@ -12,7 +12,7 @@
 - :paintbrush: Fun fact: I love to do 3d art
 - :clinking_glasses: Looking forward to meet like minded people
 
-### Connect with me:
+### :handshake:	 Connect with me:
 
 [<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://user-images.githubusercontent.com/7692061/139592750-a0982aab-6a14-412d-98ae-f58e93de921a.png" />][Website]
 
