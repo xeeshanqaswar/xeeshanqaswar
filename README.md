@@ -13,20 +13,24 @@
 - :clinking_glasses: Looking forward to meet like minded people
 
 ### Connect with me:
-![GitHub Logo](/images/linkedin.png)
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="/images/linkedin.png" />][website]
+[<img align="left" alt="Zeeshan Qaswar" width="50px" src="https://user-images.githubusercontent.com/7692061/139592750-a0982aab-6a14-412d-98ae-f58e93de921a.png" />][Website]
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Zeeshan Qaswar" width="50px" src="https://user-images.githubusercontent.com/7692061/139592632-0efd96e0-a8cb-44e9-a171-8a6b20b9d294.png" />][Skype]
+
+[<img align="left" alt="Zeeshan Qaswar" width="50px" src="https://user-images.githubusercontent.com/7692061/139592708-0354fdca-bd2a-4700-a929-bba81f8250a2.png" />][linkedin]
+
+[<img align="left" alt="Zeeshan Qaswar" width="50px" src="https://user-images.githubusercontent.com/7692061/139592770-46d1f121-efc4-4c30-b001-09a25fdcd12f.png" />][Behance]
+
+[<img align="left" alt="Zeeshan Qaswar" width="50px" src="https://user-images.githubusercontent.com/7692061/139592808-945e575e-4438-4538-b45b-f1416581ea61.png" />][instagram]
+
+<!-- [<img src="../images/linkedin.png" alt="drawing" style="width:200px;"/>][website] -->
 
 <br />
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />] -->
 
 <br />
 <br />
@@ -48,6 +52,8 @@
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/zeeshan.qaswar/?hl=en
 [linkedin]: https://www.linkedin.com/in/zeolion/
+[Skype]: https://join.skype.com/invite/p92p125btHMA
+[Behance]: https://www.behance.net/zeeshanqawar
 
 
 <!-- MARKDOWN GUIDE : https://guides.github.com/features/mastering-markdown/ -->
