@@ -14,15 +14,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Zeeshan Qaswar" width="50px" src="https://user-images.githubusercontent.com/7692061/139592750-a0982aab-6a14-412d-98ae-f58e93de921a.png" />][Website]
+[<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://user-images.githubusercontent.com/7692061/139592750-a0982aab-6a14-412d-98ae-f58e93de921a.png" />][Website]
 
-[<img align="left" alt="Zeeshan Qaswar" width="50px" src="https://user-images.githubusercontent.com/7692061/139592632-0efd96e0-a8cb-44e9-a171-8a6b20b9d294.png" />][Skype]
+[<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://user-images.githubusercontent.com/7692061/139592632-0efd96e0-a8cb-44e9-a171-8a6b20b9d294.png" />][Skype]
 
-[<img align="left" alt="Zeeshan Qaswar" width="50px" src="https://user-images.githubusercontent.com/7692061/139592708-0354fdca-bd2a-4700-a929-bba81f8250a2.png" />][linkedin]
+[<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://user-images.githubusercontent.com/7692061/139592708-0354fdca-bd2a-4700-a929-bba81f8250a2.png" />][linkedin]
 
-[<img align="left" alt="Zeeshan Qaswar" width="50px" src="https://user-images.githubusercontent.com/7692061/139592770-46d1f121-efc4-4c30-b001-09a25fdcd12f.png" />][Behance]
+[<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://user-images.githubusercontent.com/7692061/139592770-46d1f121-efc4-4c30-b001-09a25fdcd12f.png" />][Behance]
 
-[<img align="left" alt="Zeeshan Qaswar" width="50px" src="https://user-images.githubusercontent.com/7692061/139592808-945e575e-4438-4538-b45b-f1416581ea61.png" />][instagram]
+[<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://user-images.githubusercontent.com/7692061/139592808-945e575e-4438-4538-b45b-f1416581ea61.png" />][instagram]
 
 <!-- [<img src="../images/linkedin.png" alt="drawing" style="width:200px;"/>][website] -->
 
