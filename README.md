@@ -19,7 +19,7 @@
 
 ### :handshake:	 Connect with me:
 
-Don't hesitent to connect. I promise I wont bite :smile:
+Don't be hesitent to connect. I promise I wont bite :smile:
 
 [<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://user-images.githubusercontent.com/7692061/139592750-a0982aab-6a14-412d-98ae-f58e93de921a.png" />][Website]
 
