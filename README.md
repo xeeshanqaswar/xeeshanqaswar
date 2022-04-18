@@ -43,10 +43,6 @@ Don't be hesitent to connect. I promise I wont bite :smile:
 <img align="left" alt="Zeeshan Qaswar" width="30px" src="https://user-images.githubusercontent.com/7692061/139595497-0955b7f5-9632-4a94-a56a-168d396094f4.png"/>
 
 <br />
-### :page_with_curl: Hire me on:
-[<img align="left" alt="Upwork" width="30px" src="https://user-images.githubusercontent.com/7692061/159747892-a31c3e70-3e52-4814-baff-d4e612aa23f4.png" />][Upwork]
-
-<br />
 
 ### Follow me on Github Thanks :smile: Have a nice Day!
 
