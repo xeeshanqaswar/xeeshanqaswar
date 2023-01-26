@@ -10,8 +10,7 @@
 
 ## :joystick: I'm a Game Developer!!
 
-- :video_game: In spare time I like to binge Apex Legends
-- :muscle: Working on side project to Improve 🤣
+- :muscle: Working on side project to Improve
 - :brain: Trying to learn Shader Programming & Games Math
 - :fist_right: 2021 Goals: Complete the Game Dev Maths
 - :paintbrush: Fun fact: I love to do art
