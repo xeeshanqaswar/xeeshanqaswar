@@ -58,7 +58,7 @@ Don't be hesitent to connect. I promise I wont bite :smile:
 
 
 <!-- MAJOR LINKS -->
-[website]: https://zeeshanqaswar.artstation.com/
+[website]: https://xeeshanqaswar.github.io/Portfolio-Website/
 <!--https://xeeshanqaswar.github.io/Portfolio/-->
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/zeeshan.qaswar/?hl=en
