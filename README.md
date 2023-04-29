@@ -20,8 +20,6 @@
 
 Don't be hesitent to connect. I promise I wont bite :smile:
 
-[<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://user-images.githubusercontent.com/7692061/139592750-a0982aab-6a14-412d-98ae-f58e93de921a.png" />][Website]
-
 [<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://user-images.githubusercontent.com/7692061/139592632-0efd96e0-a8cb-44e9-a171-8a6b20b9d294.png" />][Skype]
 
 [<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://user-images.githubusercontent.com/7692061/139592708-0354fdca-bd2a-4700-a929-bba81f8250a2.png" />][linkedin]
@@ -59,7 +57,6 @@ Don't be hesitent to connect. I promise I wont bite :smile:
 
 <!-- MAJOR LINKS -->
 [website]: https://xeeshanqaswar.github.io
-<!--https://xeeshanqaswar.github.io/Portfolio/-->
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/zeeshan.qaswar/?hl=en
 [linkedin]: https://www.linkedin.com/in/zeolion/
