@@ -20,11 +20,7 @@
 
 Don't be hesitent to connect. I promise I wont bite :smile:
 
-[<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://user-images.githubusercontent.com/7692061/139592632-0efd96e0-a8cb-44e9-a171-8a6b20b9d294.png" />][Skype]
-
 [<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://user-images.githubusercontent.com/7692061/139592708-0354fdca-bd2a-4700-a929-bba81f8250a2.png" />][linkedin]
-
-[<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://user-images.githubusercontent.com/7692061/139592770-46d1f121-efc4-4c30-b001-09a25fdcd12f.png" />][Behance]
 
 [<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://user-images.githubusercontent.com/7692061/139592808-945e575e-4438-4538-b45b-f1416581ea61.png" />][instagram]
 
@@ -56,12 +52,10 @@ Don't be hesitent to connect. I promise I wont bite :smile:
 
 
 <!-- MAJOR LINKS -->
-[website]: https://xeeshanqaswar.github.io
+[website]: https://zeeshanqaswar.com
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/zeeshan.qaswar/?hl=en
 [linkedin]: https://www.linkedin.com/in/zeolion/
-[Skype]: https://join.skype.com/invite/p92p125btHMA
-[Behance]: https://www.behance.net/zeeshanqawar
 [Upwork]: https://www.upwork.com/freelancers/~0129c8eecddd0f5fce
 
 
