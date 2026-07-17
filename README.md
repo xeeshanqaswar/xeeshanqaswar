@@ -1,62 +1,69 @@
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+<!-- Header / Banner -->
+<div align="center">
+  <img src="/images/Banner.png" alt="Zeeshan Qaswar Banner" />
 
-![Zeeshan Qasar](/images/Banner.png)
+  <h1>Hi there, I'm Zeeshan Qaswar <br> <small>(aka ZeoLion)</small> 👋</h1>
 
-### Hi there, I'm Zeeshan Qaswar - aka [ZeoLion][website] 👋
+  <h3>🎮 Game Developer | Technical Artist | Programmer</h3>
 
-[![Portfolio Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
-![Github Followers](https://img.shields.io/github/followers/xeeshanqaswar?style=for-the-badge)
+  <!-- Badges -->
+  <a href="https://zeeshanqaswar.com">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio Website" />
+  </a>
+  <a href="https://github.com/xeeshanqaswar?tab=followers">
+    <img src="https://img.shields.io/github/followers/xeeshanqaswar?style=for-the-badge&logo=github" alt="Github Followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/zeeshanqaswar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect" />
+  </a>
+</div>
 
-## :joystick: I'm a Game Developer!!
+<br/>
 
-- :muscle: Working on side project to Improve
-- :brain: Trying to learn Shader Programming & Games Math
-- :fist_right: 2021 Goals: Complete the Game Dev Maths
-- :paintbrush: Fun fact: I love to do art
-- :clinking_glasses: Looking forward to meet like minded people
+## 👨‍💻 About Me
 
-### :handshake:	 Connect with me:
+I am a passionate Game Developer with a strong blend of programming and artistic skills. I thrive on bringing interactive worlds to life and am constantly exploring the intersection of art and math in game design.
 
-Don't be hesitent to connect. I promise I wont bite :smile:
+* 🕹️ **Currently building:** Personal side projects to refine my mechanics and gameplay loops.
+* 🧠 **Currently learning:** Shader Programming, Advanced Game Mathematics, and Rendering Techniques.
+* 🎨 **Fun Fact:** Beyond writing code, I have a deep love for digital art and asset creation.
+* 🤝 **Community:** I'm always open to collaborating with like-minded creators and developers. Let's talk games!
 
-[<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://user-images.githubusercontent.com/7692061/139592708-0354fdca-bd2a-4700-a929-bba81f8250a2.png" />][linkedin]
+---
 
-[<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://user-images.githubusercontent.com/7692061/139592808-945e575e-4438-4538-b45b-f1416581ea61.png" />][instagram]
+## 🛠️ Languages & Tools
 
-<!-- [<img src="../images/linkedin.png" alt="drawing" style="width:200px;"/>][website] -->
+### Programming & Game Engines
+<p align="left">
+  <a href="https://isocpp.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
+  <a href="https://unity.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/> </a>
+</p>
 
-<br />
+### Design & Art
+<p align="left">
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/> </a>
+</p>
 
-### Languages and Tools:
-<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://user-images.githubusercontent.com/7692061/139595497-0955b7f5-9632-4a94-a56a-168d396094f4.png"/>
+---
 
-<br />
+## 📈 GitHub Stats
 
-### Follow me on Github Thanks :smile: Have a nice Day!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xeeshanqaswar&show_icons=true&theme=radical" alt="Zeeshan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xeeshanqaswar&theme=radical" alt="Zeeshan's GitHub Streak" />
+</div>
 
+---
 
+## 📬 Connect With Me
 
-<!-- <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass) -->
-<!--END_SECTION:activity-->
+Don't hesitate to reach out! I'm always open to discussing game dev, freelance opportunities, or just geeking out over shaders.
 
-<!-- </details> -->
-
-
-<!-- MAJOR LINKS -->
-[website]: https://zeeshanqaswar.com
-[twitter]: https://twitter.com/
-[instagram]: https://www.instagram.com/zeeshan.qaswar/?hl=en
-[linkedin]: https://www.linkedin.com/in/zeolion/
-[Upwork]: https://www.upwork.com/freelancers/~0129c8eecddd0f5fce
-
-
-<!-- MARKDOWN GUIDE : https://guides.github.com/features/mastering-markdown/ -->
+<p align="center">
+  <a href="https://zeeshanqaswar.com"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/zeeshanqaswar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/zeeshan.qaswar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.upwork.com/freelancers/~0129c8eecddd0f5fce"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
+</p>
