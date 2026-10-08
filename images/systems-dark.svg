@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" fill="none">
+  <title>Connected systems — dark</title>
+  <desc>Three abstract architectural boundaries linked by fine paths on charcoal, with a muted sage accent.</desc>
+  <rect width="1200" height="220" rx="8" fill="#161B22"/>
+  <g stroke="#232C35" stroke-width="1">
+    <path d="M80 0V220M240 0V220M400 0V220M560 0V220M720 0V220M880 0V220M1040 0V220M0 54H1200M0 110H1200M0 166H1200"/>
+  </g>
+  <g stroke="#3A4752" stroke-width="1.5">
+    <rect x="112" y="54" width="232" height="112" rx="4"/>
+    <rect x="484" y="30" width="232" height="160" rx="4"/>
+    <rect x="856" y="54" width="232" height="112" rx="4"/>
+    <path d="M144 86H204M144 98H184M516 62H576M516 74H556M888 86H948M888 98H928"/>
+    <path d="M228 110H304M600 86V134M896 110H972"/>
+  </g>
+  <g stroke="#91AD9C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 110H112M344 110H408V86H484M716 134H792V110H856M1088 110H1152"/>
+  </g>
+  <g fill="#161B22" stroke="#91AD9C" stroke-width="2">
+    <circle cx="112" cy="110" r="4"/><circle cx="344" cy="110" r="4"/>
+    <circle cx="484" cy="86" r="4"/><circle cx="716" cy="134" r="4"/>
+    <circle cx="856" cy="110" r="4"/><circle cx="1088" cy="110" r="4"/>
+  </g>
+  <g fill="#91AD9C">
+    <circle cx="228" cy="110" r="4"/><circle cx="600" cy="86" r="4"/>
+    <circle cx="600" cy="134" r="4"/><circle cx="972" cy="110" r="4"/>
+  </g>
+  <path d="M24 30V24H30M1170 24H1176V30M24 190V196H30M1170 196H1176V190" stroke="#52616C"/>
+</svg>
