@@ -1,69 +1,75 @@
-<!-- Header / Banner -->
-<div align="center">
-  <img src="/images/Banner.png" alt="Zeeshan Qaswar Banner" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/systems-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/systems-light.svg">
+  <img src="images/systems-light.svg" alt="Abstract system boundaries connected by precise paths and nodes" width="1200">
+</picture>
 
-  <h1>Hi there, I'm Zeeshan Qaswar <br> <small>(aka ZeoLion)</small> 👋</h1>
+# Zeeshan Qaswar
 
-  <h3>🎮 Game Developer | Technical Artist | Programmer</h3>
+**Senior / Lead Unity Engineer**<br>
+Multiplayer · Performance · Production Systems
 
-  <!-- Badges -->
-  <a href="https://zeeshanqaswar.com">
-    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio Website" />
-  </a>
-  <a href="https://github.com/xeeshanqaswar?tab=followers">
-    <img src="https://img.shields.io/github/followers/xeeshanqaswar?style=for-the-badge&logo=github" alt="Github Followers" />
-  </a>
-  <a href="https://www.linkedin.com/in/zeeshanqaswar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect" />
-  </a>
-</div>
+**I build and stabilize complex Unity systems** across games and real-time applications. With 7+ years of professional Unity development, my work spans multiplayer integration, production architecture, performance and memory optimization, mobile engineering, and hands-on technical leadership.
 
-<br/>
+**[Portfolio ↗︎](https://zeeshanqaswar.com/) · [Engineering Case Studies ↗︎](https://zeeshanqaswar.com/#case-studies) · [LinkedIn ↗︎](https://www.linkedin.com/in/zeeshanqaswar/)**
 
-## 👨‍💻 About Me
+## Engineering Focus
 
-I am a passionate Game Developer with a strong blend of programming and artistic skills. I thrive on bringing interactive worlds to life and am constantly exploring the intersection of art and math in game design.
+**Multiplayer Systems**<br>
+Photon Fusion, Photon PUN2, host/client architecture, authority models, replicated state, networked gameplay, and host migration.
 
-* 🕹️ **Currently building:** Personal side projects to refine my mechanics and gameplay loops.
-* 🧠 **Currently learning:** Shader Programming, Advanced Game Mathematics, and Rendering Techniques.
-* 🎨 **Fun Fact:** Beyond writing code, I have a deep love for digital art and asset creation.
-* 🤝 **Community:** I'm always open to collaborating with like-minded creators and developers. Let's talk games!
+**Performance & Memory**<br>
+Unity Profiler, memory diagnosis, Addressables, asset lifecycle, progressive loading, UI optimization, and mobile constraints across iOS and Android.
 
----
+**Production Architecture**<br>
+C#, modular systems, MVP-style UI architecture, interfaces, services, dependency injection, and production integrations with PlayFab and Firebase.
 
-## 🛠️ Languages & Tools
+**Technical Ownership**<br>
+Hands-on technical leadership, code review, mentoring, cross-team collaboration, debugging, and production delivery.
 
-### Programming & Game Engines
-<p align="left">
-  <a href="https://isocpp.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
-  <a href="https://unity.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/> </a>
-</p>
+## Open-Source Engineering
 
-### Design & Art
-<p align="left">
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/> </a>
-</p>
+### [Poly Vault ↗︎](https://github.com/xeeshanqaswar/Poly-Vault)
 
----
+> **An asset library with a direct path into Unity.**
+>
+> An offline-first desktop application for organizing 2D and 3D asset libraries, with searchable asset management and an integrated import workflow for Unity 6.
+>
+> Electron · Node.js · Unity 6
+>
+> **[Explore the source ↗︎](https://github.com/xeeshanqaswar/Poly-Vault#readme)**
 
-## 📈 GitHub Stats
+## Selected Production Engineering
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xeeshanqaswar&show_icons=true&theme=radical" alt="Zeeshan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xeeshanqaswar&theme=radical" alt="Zeeshan's GitHub Streak" />
-</div>
+Commercial and research work, documented through engineering case studies.
 
----
+### SPACE
+**Research Platform Architecture & Performance**
 
-## 📬 Connect With Me
+Led Unity engineering for an iPad-based spatial assessment platform, including complex research authoring tools, localization, production architecture, and memory/performance optimization.
 
-Don't hesitate to reach out! I'm always open to discussing game dev, freelance opportunities, or just geeking out over shaders.
+[Read the case study ↗︎](https://zeeshanqaswar.com/case-studies/space/)
 
-<p align="center">
-  <a href="https://zeeshanqaswar.com"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-  <a href="https://www.linkedin.com/in/zeeshanqaswar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/zeeshan.qaswar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.upwork.com/freelancers/~0129c8eecddd0f5fce"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
-</p>
+### G.I. Joe: Wrath of Cobra
+**Multiplayer Integration**
+
+Led a two-developer multiplayer adaptation of an existing action game using Photon Fusion, covering authority-based gameplay, tick-based input, networked state, spawning, and host migration.
+
+[Read the case study ↗︎](https://zeeshanqaswar.com/case-studies/gi-joe-multiplayer/)
+
+### Pro Golf
+**Personalization & Asset Lifecycle**
+
+Architected a Unity personalization system involving API-driven inventory, Addressables, progressive content loading, navigation-aware asset management, and memory optimization.
+
+[Read the case study ↗︎](https://zeeshanqaswar.com/case-studies/pro-golf-personalisation/)
+
+## Engineering Direction
+
+I'm continuing to deepen my understanding of C#/.NET internals, backend systems, real-time networking fundamentals, concurrency, and automated testing—building on production Unity engineering experience.
+
+## Contact
+
+Interested in discussing Unity architecture, multiplayer integration, performance optimization, or complex production engineering?
+
+**[Website](https://zeeshanqaswar.com/) · [LinkedIn](https://www.linkedin.com/in/zeeshanqaswar/) · [Email](mailto:xeeshanqaswar@gmail.com)**
